@@ -1,5 +1,5 @@
 ---
 java_openjdk_pkg:
-  - openjdk-{{java_ver}}-jre
+  - openjdk-{{java_ver}}-jdk
 
 java_home: /usr/lib/jvm/java-{{java_ver}}-openjdk-amd64
